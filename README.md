@@ -1,6 +1,5 @@
 # Dynamically Generate and Integrate a GitHub‑Like Default User Avatar
 
-**Repository Description**  
 This project demonstrates how to dynamically generate and integrate a GitHub‑style default user avatar within an Angular application.
 
 This Angular project focuses on creating a user avatar experience similar to GitHub’s default profile images. It is built using Angular CLI and provides a basic setup for development, testing, and build workflows.
